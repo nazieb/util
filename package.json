@@ -1,0 +1,11 @@
+{
+  "name": "@nazieb/util",
+  "description": "Various utility helper written as CLI app",
+  "version": "1.0.0",
+  "author": "Ainun Nazieb <ainun@nazieb.com>",
+  "license": "MIT",
+  "repository": "https://github.com/nazieb/util",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
